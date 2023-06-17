@@ -1,0 +1,6 @@
+data/com.rutins.Laser.desktop.in
+data/com.rutins.Laser.appdata.xml.in
+data/com.rutins.Laser.gschema.xml
+src/main.c
+src/laser-window.c
+src/laser-window.ui

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="laser">
+	<schema id="com.rutins.Laser" path="/com/rutins/Laser/">
+	</schema>
+</schemalist>
